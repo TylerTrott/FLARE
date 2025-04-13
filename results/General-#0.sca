@@ -1,0 +1,375 @@
+version 3
+run General-0-20250411-14:53:50-6694
+attr configname General
+attr datetime 20250411-14:53:50
+attr datetimef 20250411-145350
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network meshnetwork
+attr processid 6694
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network meshnetwork
+config sim-time-limit 10s
+
+par meshnetwork.node[0].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[0].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[0].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[0].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[0].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[0].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[0].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[0].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[0].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[1].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[1].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[1].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[1].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[1].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[1].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[1].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[1].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[1].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[2].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[2].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[2].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[2].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[2].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[2].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[2].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[2].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[2].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[3].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[3].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[3].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[3].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[3].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[3].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[3].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[3].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[3].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[4].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[4].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[4].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[4].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[4].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[4].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[4].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[4].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[4].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[5].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[5].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[5].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[5].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[5].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[5].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[5].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[5].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[5].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[6].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[6].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[6].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[6].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[6].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[6].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[6].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[6].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[6].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[7].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[7].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[7].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[7].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[7].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[7].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[7].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[7].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[7].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[8].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[8].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[8].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[8].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[8].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[8].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[8].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[8].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[8].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[9].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[9].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[9].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[9].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[9].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[9].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[9].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[9].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[9].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[10].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[10].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[10].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[10].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[10].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[10].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[10].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[10].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[10].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[11].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[11].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[11].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[11].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[11].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[11].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[11].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[11].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[11].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[12].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[12].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[12].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[12].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[12].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[12].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[12].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[12].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[12].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[13].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[13].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[13].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[13].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[13].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[13].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[13].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[13].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[13].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[14].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[14].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[14].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[14].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[14].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[14].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[14].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[14].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[14].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[15].out[0].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[15].out[0].channel disabled false
+attr mutable ""
+par meshnetwork.node[15].out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[15].out[1].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[15].out[1].channel disabled false
+attr mutable ""
+par meshnetwork.node[15].out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[15].out[2].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[15].out[2].channel disabled false
+attr mutable ""
+par meshnetwork.node[15].out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[0].out[3].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[0].out[3].channel disabled false
+attr mutable ""
+par meshnetwork.node[0].out[3].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[4].out[3].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[4].out[3].channel disabled false
+attr mutable ""
+par meshnetwork.node[4].out[3].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[8].out[3].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[8].out[3].channel disabled false
+attr mutable ""
+par meshnetwork.node[8].out[3].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[12].out[3].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[12].out[3].channel disabled false
+attr mutable ""
+par meshnetwork.node[12].out[3].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[4].out[4].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[4].out[4].channel disabled false
+attr mutable ""
+par meshnetwork.node[4].out[4].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[8].out[4].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[8].out[4].channel disabled false
+attr mutable ""
+par meshnetwork.node[8].out[4].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[12].out[4].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[12].out[4].channel disabled false
+attr mutable ""
+par meshnetwork.node[12].out[4].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[0].out[4].channel typename "\"meshnetwork.Channel\""
+par meshnetwork.node[0].out[4].channel disabled false
+attr mutable ""
+par meshnetwork.node[0].out[4].channel delay 0.1s
+attr mutable ""
+attr unit s
+par meshnetwork.node[0] typename "\"GossipNode\""
+par meshnetwork.node[1] typename "\"GossipNode\""
+par meshnetwork.node[2] typename "\"GossipNode\""
+par meshnetwork.node[3] typename "\"GossipNode\""
+par meshnetwork.node[4] typename "\"GossipNode\""
+par meshnetwork.node[5] typename "\"GossipNode\""
+par meshnetwork.node[6] typename "\"GossipNode\""
+par meshnetwork.node[7] typename "\"GossipNode\""
+par meshnetwork.node[8] typename "\"GossipNode\""
+par meshnetwork.node[9] typename "\"GossipNode\""
+par meshnetwork.node[10] typename "\"GossipNode\""
+par meshnetwork.node[11] typename "\"GossipNode\""
+par meshnetwork.node[12] typename "\"GossipNode\""
+par meshnetwork.node[13] typename "\"GossipNode\""
+par meshnetwork.node[14] typename "\"GossipNode\""
+par meshnetwork.node[15] typename "\"GossipNode\""
+par meshnetwork typename "\"meshnetwork\""
+

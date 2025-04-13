@@ -1,0 +1,13 @@
+Movement,Right,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Thru,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,U-Turn,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Peds CW,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Peds CCW,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,Unnamed: 40
+Start Time,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk
+2025-01-16 07:00:00,1,24,0,1,0,0,0,0,2,466,17,0,46,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,0,37,0,0,0,0,0,40,0,50
+2025-01-16 08:00:00,0,45,1,0,0,0,0,0,1,615,19,1,39,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,108,0,0,0,0,0,73,0,95
+2025-01-16 09:00:00,0,34,1,0,0,0,0,0,1,538,19,3,36,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,40,0,0,0,0,0,32,0,46
+2025-01-16 10:00:00,0,46,2,0,0,0,0,0,1,460,13,0,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,24,0,0,0,0,0,40,0,33
+2025-01-16 11:00:00,0,44,2,0,0,0,0,0,1,468,13,0,30,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,0,36,0,0,0,0,0,102,0,30
+2025-01-16 12:00:00,0,39,0,0,0,0,0,0,0,441,11,0,34,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,205,0,26,0,0,0,0,0,159,0,33
+2025-01-16 13:00:00,0,44,1,0,2,0,1,0,0,440,8,1,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,0,36,0,0,0,0,0,61,0,19
+2025-01-16 14:00:00,0,38,1,0,1,0,1,0,2,424,8,0,36,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,32,0,0,0,0,0,59,0,30
+2025-01-16 15:00:00,0,42,0,0,0,0,1,0,1,449,10,0,31,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,40,0,0,0,0,0,61,0,61
+2025-01-16 16:00:00,0,49,2,0,0,0,2,0,5,504,2,0,41,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,78,0,0,0,0,0,109,0,95
+2025-01-16 17:00:00,0,28,0,0,0,0,1,0,3,564,1,0,34,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,0,67,0,0,0,0,0,71,0,85

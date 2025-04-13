@@ -1,0 +1,9 @@
+Movement,Right,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Thru,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Left,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Peds CW,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Peds CCW,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,Unnamed: 40
+Start Time,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk,Motorcycles,Lights,Single-Unit Trucks,Articulated Trucks,Buses,Pedestrians,Bicycles on Road,Bicycles on Crosswalk
+2025-02-13 07:00:00,0,41,1,0,0,0,1,0,0,222,5,5,13,0,7,0,0,98,3,1,0,0,1,0,0,0,0,0,0,28,0,1,0,0,0,0,0,26,0,0
+2025-02-13 08:00:00,0,69,0,0,0,0,1,0,3,320,7,0,18,0,24,0,0,179,1,0,0,0,0,0,0,0,0,0,0,50,0,1,0,0,0,0,0,40,0,0
+2025-02-13 11:00:00,0,53,0,1,0,0,1,0,1,153,5,1,8,0,5,0,1,69,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,31,0,0
+2025-02-13 12:00:00,0,114,5,0,1,0,1,0,3,302,6,3,16,0,6,0,0,140,1,0,0,0,1,0,0,0,0,0,0,110,0,0,0,0,0,0,0,105,0,1
+2025-02-13 13:00:00,0,56,1,0,0,0,3,0,0,116,6,1,10,0,6,0,1,69,2,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,40,0,1
+2025-02-13 16:00:00,0,126,3,0,0,0,1,0,1,315,4,0,18,0,13,0,0,147,0,0,0,0,1,0,0,0,0,0,0,86,0,2,0,0,0,0,0,90,0,2
+2025-02-13 17:00:00,0,120,0,0,0,0,5,0,0,348,1,0,24,0,14,0,0,148,1,0,0,0,0,0,0,0,0,0,0,98,0,3,0,0,0,0,0,92,0,9
